@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rihammisuk. I am software engineer.
+- 👋 Hi, I’m @rihammisuk. I am a software engineer.
 - 👀 I’m interested in software development and new Technology. I want to be a software developer because designing computer programs lets me use my creative and problem-solving skills.
 - 🌱 I’m currently learning problem soving with c++. It become my passion to get satisfying "Accepted" result.
 - 💞️ I’m looking to collaborate on new programmer who are learning new things.
